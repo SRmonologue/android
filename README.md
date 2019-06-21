@@ -16,3 +16,4 @@
 * [Android多线程：手把手带你深入AsyncTask源码分析](https://mp.weixin.qq.com/s/5vi0KYQRrP-7X-ZBOfhlZQ)
 * [Android多线程：全面了解IntentService & 具体使用](https://mp.weixin.qq.com/s/5WglJKJQI_MEFn4afoiehA)
 * [Android多线程：手把手带你深入IntentService源码分析](https://mp.weixin.qq.com/s/Ub6yt-UUZqP3r5gpp8HTOw)
+* [Android线程池：这是一份全面 & 详细的ThreadPool学习指南](https://mp.weixin.qq.com/s/T0VmKylTqc4Mq4tdJu3bwQ)
