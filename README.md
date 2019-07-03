@@ -18,3 +18,5 @@
 * [Android多线程：手把手带你深入IntentService源码分析](https://mp.weixin.qq.com/s/Ub6yt-UUZqP3r5gpp8HTOw)
 * [Android线程池：这是一份全面 & 详细的ThreadPool学习指南](https://mp.weixin.qq.com/s/T0VmKylTqc4Mq4tdJu3bwQ)
 * [Android多线程：你了解线程同步Synchronized吗？](https://mp.weixin.qq.com/s/5tBKXIGHxOQFk4H2fVN7Cg)
+* [这是一份全面 & 详细的Android多线程学习指南](https://mp.weixin.qq.com/s/Z5tjAwcRhb8pRJezLkAY1g)
+* [Android：这是一份全面 & 详细的动画入门指南](https://mp.weixin.qq.com/s/03sR8WdxMAf9vomrts7_bQ)
