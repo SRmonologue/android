@@ -21,3 +21,4 @@
 * [这是一份全面 & 详细的Android多线程学习指南](https://mp.weixin.qq.com/s/Z5tjAwcRhb8pRJezLkAY1g)
 * [Android：这是一份全面 & 详细的动画入门指南](https://mp.weixin.qq.com/s/03sR8WdxMAf9vomrts7_bQ)
 * [Android动画：手把手带你学习补间动画](https://mp.weixin.qq.com/s/d5gPufV6aCoJws5Scoxr7w)
+* [Android动画：这些补间动画的使用你必须要了解](https://mp.weixin.qq.com/s/DFjDD38P10tD03hMWX12gw)
