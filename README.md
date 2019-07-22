@@ -25,3 +25,4 @@
 * [Android动画：补间动画使用的正确打开方式](https://mp.weixin.qq.com/s/udClKakrMKEB8KxGp4rUCw)
 * [Android动画：这是一份全面 & 详细的逐帧动画指南](https://mp.weixin.qq.com/s/lU8xnuE5qFEJsDoyltz1rg)
 * [Android：你不得不了解的属性动画学习指南](https://mp.weixin.qq.com/s/-suvHEYZVGzHKgiLsLILXw)
+* [Android：手把手教你使用属性动画核心类ValueAnimator](https://mp.weixin.qq.com/s/url4eXRcaLmDqAmiGMGT_w)
