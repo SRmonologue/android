@@ -26,3 +26,4 @@
 * [Android动画：这是一份全面 & 详细的逐帧动画指南](https://mp.weixin.qq.com/s/lU8xnuE5qFEJsDoyltz1rg)
 * [Android：你不得不了解的属性动画学习指南](https://mp.weixin.qq.com/s/-suvHEYZVGzHKgiLsLILXw)
 * [Android：手把手教你使用属性动画核心类ValueAnimator](https://mp.weixin.qq.com/s/url4eXRcaLmDqAmiGMGT_w)
+* [Android属性动画：这是一份全面 & 详细的核心使用类ObjectAnimator学习攻略](https://mp.weixin.qq.com/s/Xk7McyvOFCCIy4zk00t_iw)
