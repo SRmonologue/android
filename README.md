@@ -28,3 +28,4 @@
 * [Android：手把手教你使用属性动画核心类ValueAnimator](https://mp.weixin.qq.com/s/url4eXRcaLmDqAmiGMGT_w)
 * [Android属性动画：这是一份全面 & 详细的核心使用类ObjectAnimator学习攻略](https://mp.weixin.qq.com/s/Xk7McyvOFCCIy4zk00t_iw)
 * [Android：细说属性动画的一些使用小技巧](https://mp.weixin.qq.com/s/osyRpQRHzHvlSo5nRMeW5g)
+* [Android动画：手把手带你学习神秘的插值器（Interpolator）](https://mp.weixin.qq.com/s/lrcKcgomhZ1VWJjOY-_Djw)
