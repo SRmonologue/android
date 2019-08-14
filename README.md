@@ -33,3 +33,4 @@
 * [Android：这是一份全面 & 详细的属性动画学习攻略](https://mp.weixin.qq.com/s/AUOFI0jPwLhHSc-reWsLjg)
 * [Android：这是一份详细 & 全面的动画知识学习攻略](https://mp.weixin.qq.com/s/VRrmW5PC4rrr1uKqTHYqlA)
 * [Android：你要了解的自定义View基础概念都在这里了！](https://mp.weixin.qq.com/s/oreb-ReV_b6gM4Owksifig)
+* [自定义View必知：ViewRoot、DecorView、Window & 之间的区别](https://mp.weixin.qq.com/s/C31k4rhpJXbmp0Y7Jkzm-g)
