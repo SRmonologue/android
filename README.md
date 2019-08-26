@@ -35,3 +35,5 @@
 * [Android：你要了解的自定义View基础概念都在这里了！](https://mp.weixin.qq.com/s/oreb-ReV_b6gM4Owksifig)
 * [自定义View必知：ViewRoot、DecorView、Window & 之间的区别](https://mp.weixin.qq.com/s/C31k4rhpJXbmp0Y7Jkzm-g)
 * [自定义View：绘制准备 - DecorView创建 & 显示](https://mp.weixin.qq.com/s/mwmUYbKm6xghFA5KoACfBw)
+* [自定义View中Measure流程基础：神秘的MeasureSpec类](https://mp.weixin.qq.com/s/xcHepP4Kk-dBAfkWNZiKlw)
+* [自定义View：Measure过程之单一View流程](https://mp.weixin.qq.com/s/fLeSGZMkA4W19PJem76AZg)
