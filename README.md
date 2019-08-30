@@ -37,3 +37,4 @@
 * [自定义View：绘制准备 - DecorView创建 & 显示](https://mp.weixin.qq.com/s/mwmUYbKm6xghFA5KoACfBw)
 * [自定义View中Measure流程基础：神秘的MeasureSpec类](https://mp.weixin.qq.com/s/xcHepP4Kk-dBAfkWNZiKlw)
 * [自定义View：Measure过程之单一View流程](https://mp.weixin.qq.com/s/fLeSGZMkA4W19PJem76AZg)
+* [自定义View：Measure过程之ViewGroup](https://mp.weixin.qq.com/s/ljO6eELhnSMMNEpAltKw6Q)
