@@ -39,3 +39,4 @@
 * [自定义View：Measure过程之单一View流程](https://mp.weixin.qq.com/s/fLeSGZMkA4W19PJem76AZg)
 * [自定义View：Measure过程之ViewGroup](https://mp.weixin.qq.com/s/ljO6eELhnSMMNEpAltKw6Q)
 * [自定义View：Layout过程 - 单一View](https://mp.weixin.qq.com/s/8Q_kdJ0RViNOB5IghoUBzg)
+* [自定义View：Layout过程 - ViewGroup](https://mp.weixin.qq.com/s/--dNj9e6GaRsp25EAazH6A)
