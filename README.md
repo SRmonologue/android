@@ -43,3 +43,4 @@
 * [自定义View流程：Layout流程实例讲解](https://mp.weixin.qq.com/s/WSuoeG9ivH9BOtordvvJTg)
 * [自定义View：为什么你的wrap_content属性不起作用?](https://mp.weixin.qq.com/s/3c1BFJHHzQml3pZmXoe9OQ)
 * [自定义View：图文解析Draw流程（含源码解析）](https://mp.weixin.qq.com/s/baDLGj_S5xRis4S1CYeYqg)
+* [自定义View：你知道getWidth() 与 getMeasuredWidth() 获取宽高的区别吗](https://mp.weixin.qq.com/s/7DVmxUfkZ08TGq-6--MYpw)
