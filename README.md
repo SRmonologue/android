@@ -44,3 +44,6 @@
 * [自定义View：为什么你的wrap_content属性不起作用?](https://mp.weixin.qq.com/s/3c1BFJHHzQml3pZmXoe9OQ)
 * [自定义View：图文解析Draw流程（含源码解析）](https://mp.weixin.qq.com/s/baDLGj_S5xRis4S1CYeYqg)
 * [自定义View：你知道getWidth() 与 getMeasuredWidth() 获取宽高的区别吗](https://mp.weixin.qq.com/s/7DVmxUfkZ08TGq-6--MYpw)
+* [手把手教你写一个完整的自定义View](https://mp.weixin.qq.com/s/K4SR6bFd8I6L8-bIHML1rg)
+* [这是一份全面 & 详细的自定义View流程学习指南](https://mp.weixin.qq.com/s/rtM-83KTI5fjItTxnSE1Fw)
+* [3分钟了解事件分发机制必知必会的基础！](https://mp.weixin.qq.com/s/Q2ypqxfgSjScO3W8ykBurg)
