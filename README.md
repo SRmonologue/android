@@ -47,3 +47,5 @@
 * [手把手教你写一个完整的自定义View](https://mp.weixin.qq.com/s/K4SR6bFd8I6L8-bIHML1rg)
 * [这是一份全面 & 详细的自定义View流程学习指南](https://mp.weixin.qq.com/s/rtM-83KTI5fjItTxnSE1Fw)
 * [3分钟了解事件分发机制必知必会的基础！](https://mp.weixin.qq.com/s/Q2ypqxfgSjScO3W8ykBurg)
+* [事件分发机制原理（1）：细说Activity的事件分发流程](https://mp.weixin.qq.com/s/2QMcO0dvByaLpxlEsuj3qw)
+* [事件分发机制原理（2）：源码解析ViewGroup的事件分发流程](https://mp.weixin.qq.com/s/7lzQhVv_YMC7eJ9yA6DaYw)
