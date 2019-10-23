@@ -49,3 +49,4 @@
 * [3分钟了解事件分发机制必知必会的基础！](https://mp.weixin.qq.com/s/Q2ypqxfgSjScO3W8ykBurg)
 * [事件分发机制原理（1）：细说Activity的事件分发流程](https://mp.weixin.qq.com/s/2QMcO0dvByaLpxlEsuj3qw)
 * [事件分发机制原理（2）：源码解析ViewGroup的事件分发流程](https://mp.weixin.qq.com/s/7lzQhVv_YMC7eJ9yA6DaYw)
+* [事件分发机制原理（3）：手把手带你剖析View的事件分发流程（含源码分析）](https://mp.weixin.qq.com/s/nq5wuQp2hL93fXuqzFEn-g)
