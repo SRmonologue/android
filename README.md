@@ -54,3 +54,4 @@
 * [你需要了解的事件分发核心方法全面解析](https://mp.weixin.qq.com/s/PffBwhi-x93YksHDeg7rAQ)
 * [那些你必须了解的常用事件分发场景](https://mp.weixin.qq.com/s/Eyx6ex4gaVuuRBeIR7qaWw)
 * [这是一份全面 & 详细的事件分发学习指南](https://mp.weixin.qq.com/s/IbkKSVufz4vaMh013NXOTg)
+* [自定义View：Canvas类学习指南](https://mp.weixin.qq.com/s/8F7Q6xs_xNSOFhub7TVJ_w)
