@@ -56,3 +56,4 @@
 * [这是一份全面 & 详细的事件分发学习指南](https://mp.weixin.qq.com/s/IbkKSVufz4vaMh013NXOTg)
 * [自定义View：Canvas类学习指南](https://mp.weixin.qq.com/s/8F7Q6xs_xNSOFhub7TVJ_w)
 * [自定义View：这是一份全面 & 详细的Path类学习指南](https://mp.weixin.qq.com/s/8ILl8Ralki_5CfJkz0eGzA)
+* [自定义View：一款可爱&小清新的自定义等待控件](https://mp.weixin.qq.com/s/xErrqeRTz00z-aHnBuM5fw)
