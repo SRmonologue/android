@@ -57,3 +57,4 @@
 * [自定义View：Canvas类学习指南](https://mp.weixin.qq.com/s/8F7Q6xs_xNSOFhub7TVJ_w)
 * [自定义View：这是一份全面 & 详细的Path类学习指南](https://mp.weixin.qq.com/s/8ILl8Ralki_5CfJkz0eGzA)
 * [自定义View：一款可爱&小清新的自定义等待控件](https://mp.weixin.qq.com/s/xErrqeRTz00z-aHnBuM5fw)
+* [自定义View实战源码解析：手把手教你写一款可爱&小清新的自定义等待控件](https://mp.weixin.qq.com/s/BajPuRSzboW6OYG71HT07Q)
