@@ -60,3 +60,4 @@
 * [自定义View实战源码解析：手把手教你写一款可爱&小清新的自定义等待控件](https://mp.weixin.qq.com/s/BajPuRSzboW6OYG71HT07Q)
 * [性能优化：这是一份详细的 绘制优化 指南](https://mp.weixin.qq.com/s/tKo2k0ltexVqP_DEJZrx9Q)
 * [性能优化：手把手教你如何进行Bitmap资源优化](https://mp.weixin.qq.com/s/bBmF6smyooVVGaaoq4vC1A)
+* [性能优化：那些你需要了解的Android 内存管理机制](https://mp.weixin.qq.com/s/VSy7Wf-AZMKiaGB7dSR_Cg)
