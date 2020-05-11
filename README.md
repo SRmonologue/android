@@ -68,3 +68,4 @@
 * [性能优化：图文详解那些内存优化的事情](https://mp.weixin.qq.com/s/Dr9Ydo-qsMO4Xb4rVFWi_w)
 * [性能优化：这是一份全面 & 详细的学习指南](https://mp.weixin.qq.com/s/7FI4lyiPQ3ASoBgJpTskng)
 * [一起来学习那个熟悉又陌生的Application类吧！](https://mp.weixin.qq.com/s/jIfJTx1HZvB0q7AFsZ42bQ)
+* [跨进程通信原理：图文详解 内存映射](https://mp.weixin.qq.com/s/y16Qj-DzAGBr4MJDu9wdig)
