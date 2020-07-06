@@ -75,3 +75,5 @@
 * [启动Activity的IntentFilter匹配规则是什么？](https://mp.weixin.qq.com/s/Q1p7Gdl84Z1phWxrdi9XiA)
 * [你了解Activity是怎么启动的吗](https://mp.weixin.qq.com/s/SfVG0YpIqHpSJFNAQfR6gQ)
 * [关于 Fragment 的前世、今生 & 未来](https://mp.weixin.qq.com/s/jffB4-W7h-vohWOnVPigdg)
+* [Dialog 与 Activity 共用一个窗口Window吗](https://mp.weixin.qq.com/s/ou7lFOfvoTL3sqdgPNOhYg)
+* [该如何缓存Activity的状态？](https://mp.weixin.qq.com/s/Y9QkUtnQ_lOPqjx6TatFqA)
