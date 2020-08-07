@@ -77,3 +77,8 @@
 * [关于 Fragment 的前世、今生 & 未来](https://mp.weixin.qq.com/s/jffB4-W7h-vohWOnVPigdg)
 * [Dialog 与 Activity 共用一个窗口Window吗](https://mp.weixin.qq.com/s/ou7lFOfvoTL3sqdgPNOhYg)
 * [该如何缓存Activity的状态？](https://mp.weixin.qq.com/s/Y9QkUtnQ_lOPqjx6TatFqA)
+* [我们该如何进行App卡顿分析？](https://mp.weixin.qq.com/s/oacsOT0TfSG0CUhwXTw3hw)
+* [该如何进行自动化卡顿检测？](https://mp.weixin.qq.com/s/dPXRoCHPl05aZ0PtK9_mGg)
+* [关于Fragment生命周期，你了解多少？](https://mp.weixin.qq.com/s/5I2fkANnA5u0OcAEm2E1qg)
+* [如何准确获取View坐标](https://mp.weixin.qq.com/s/0GVVvY-dCBo17AnB3U2OPw)
+* [你了解 RxJava 原理吗？](https://mp.weixin.qq.com/s/_KwxA5nN6OLVXW1ul4f1Vg)
