@@ -82,3 +82,4 @@
 * [关于Fragment生命周期，你了解多少？](https://mp.weixin.qq.com/s/5I2fkANnA5u0OcAEm2E1qg)
 * [如何准确获取View坐标](https://mp.weixin.qq.com/s/0GVVvY-dCBo17AnB3U2OPw)
 * [你了解 RxJava 原理吗？](https://mp.weixin.qq.com/s/_KwxA5nN6OLVXW1ul4f1Vg)
+* [如何巧用Kotlin内置函数？](https://mp.weixin.qq.com/s/QDv6Fjx-0XxmcPSM68ODKQ)
